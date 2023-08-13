@@ -22,7 +22,7 @@ const platform = document.createElement('h1');
 platform.textContent = `Platform: ${tg.platform}`;
 
 const colorScheme = document.createElement('h1');
-colorScheme.textContent = `Color Scheme: ${tg.version}`;
+colorScheme.textContent = `Color Scheme: ${tg.colorScheme}`;
 
 
 
